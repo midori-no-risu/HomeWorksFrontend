@@ -1,0 +1,58 @@
+.bdr {
+    border: 4px black ;
+    background: black;
+    width: 1126px;
+    height: 50px;
+}
+.bdr h1{
+    color: white;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+   width: 1126px;
+    padding: 3px;
+    margin: 5px;
+}
+a{
+    color: red;
+}
+#ul1 ul li{
+    list-style-type: square;
+}
+#qua p{
+    border: 1px solid #1f553d;
+    background: #cccccc;
+    height: 60px;
+}
+#qua {
+    text-align: right;
+}
+#bdr2{
+    border: 2px solid #adff2f;
+    border-style: dashed;
+    background: #006600;
+    width: 480px;
+    height: 170px;
+    margin:10px auto 5px;
+    font-size: 20px;
+    overflow:auto;
+    text-align: left;
+    padding: 10px;
+}
+#bdr2 p{
+    color: #adff2f;
+}
+#method p{
+    color: blue;
+    font-weight: bold;
+}
+#method ul li{
+    list-style-type: circle;
+}
+.sub{
+    border: 1px solid;
+    background-color: black;
+    color: #e2e86e;
+    font-size: 20px;
+}
